@@ -1,6 +1,6 @@
 # HTTP redirection using GatewayScript
 
-This little peace of code will make your IBM DataPower Gateway to respond the client with "302 Moved Temporarily" and send the client to a predefined URL.
+This little peace of code will make your IBM DataPower Gateway to respond to the client with "302 Moved Temporarily" and send the client to a predefined URL.
 
 
 ## How to use it?
